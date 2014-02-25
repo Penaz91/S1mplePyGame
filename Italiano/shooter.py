@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #--------------------
-# Primitive Shooter
+# S1mpleShooter (Primitive Shooter)
 # Un semplice shooter in Pygame
 #--------------------
 # By Penaz
