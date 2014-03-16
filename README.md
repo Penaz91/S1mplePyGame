@@ -10,7 +10,8 @@ Giochi presenti attualmente:
 
 - Uno shooter verticale con file di supporto "Vector"
 - Un Semplice platformer privo di scorrimento
-- Una semplice simulazione di intelligenza artificiale (Richiede GameObjects) (Incompleto)
+- Una semplice simulazione di intelligenza artificiale (Richiede GameObjects)
+- Un semplice gioco in stile RPG privo di scorrimento
 
 English
 -------
@@ -21,4 +22,5 @@ Available Games:
 
 - A simple vertical shooter with a "Vector" support file (Italian)
 - A simple non-scrolling platformer (Italian)
-- A simple Artificial Intelligence simulation (Requires GameObjects) (Italian) (Incomplete)
+- A simple Artificial Intelligence simulation (Requires GameObjects) (Italian)
+- A simple RPG-Style non-scrolling game (Italian)
